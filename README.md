@@ -19,7 +19,7 @@ My interest in this dataset was the opportunity to takle imbalanced data.  We di
 * Evaluating the models on a test set using F1 score, precision and recall.  Accuracy was not used as it is not effective for imbalanced data.
 * Choosing the best model and making suggestions to improve the model
 
-# Discoveries
+# Discoveries/Reflections
 * I felt the dataset did not include enough information to create a good model for predicting loan repayment.  However the performance may have been better if I used SMOTE.  I plan to add SMOTE to the notebook in the future.
 * I had attempted GridSearchCV for hyperparameter tuning however left it out of my final noteboook as it did not improve results.  Some sample use of GridSearchCV can be found in various notebooks in the notebooks folder.  
 
