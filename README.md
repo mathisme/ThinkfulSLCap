@@ -3,7 +3,8 @@ My repository for Thinkful's Data Science Flex program's capstone 2 on supervise
 
 For this capstone project we were to go out and find a dataset of interest, explore the data, and model an outcome of interest.
 
-For this project I chose the Loan Data dataset on Kaggle, (https://www.kaggle.com/itssuru/loan-data)[https://www.kaggle.com/itssuru/loan-data]
+For this project I chose the Loan Data dataset on Kaggle, https://www.kaggle.com/itssuru/loan-data
+
 My interest in this dataset was the opportunity to takle imbalanced data.  We did not go into detail on how to hand imbalanced data in the bootcamp so I needed to research thhis on my own.
 
 
