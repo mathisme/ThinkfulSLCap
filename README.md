@@ -5,11 +5,11 @@ With this capstone project we were to go out and find a dataset of interest, exp
 
 For this project I chose the Loan Data dataset on Kaggle, https://www.kaggle.com/itssuru/loan-data
 
-My interest in this dataset was the opportunity to takle imbalanced data.  We did not go into detail on how to handle imbalanced data in the bootcamp so I needed to research this on my own.
+My interest in this dataset was the opportunity to tackle imbalanced data.  We did not go into detail on how to handle imbalanced data in the bootcamp so I needed to research this on my own.
 
 # Included in the repository 
-* (Capstone.ipynb)[Capstone.ipynb] -- the main notebook
-* (Capstone2.pptx)[Capstone2.pptx] -- the PowerPoint presentation
+* Capstone.ipynb -- the main notebook
+* Capstone2.pptx -- the PowerPoint presentation
 * Notebooks folder -- scratch work
 
 # Steps included
@@ -35,5 +35,5 @@ My interest in this dataset was the opportunity to takle imbalanced data.  We di
 # Tasks for the future
 * Utilize Imbalanced-Learn SMOTE oversampling.  In my project I utilized random undersampling and random oversampling but at the suggestion of the grader of my presentation I should use SMOTE.
 * Restructure the PowerPoint.  My PowerPoint presentation did not have a proper structure according to the data scientist from Thinkful I was presenting to.  He was very generous to give an outline of a proper structure.  In the future I would like to restructure my PowerPoint.
-* Utilize other supervised learning algorithms.  I started notebooks to use SGBoost, SVM, and decision trees but did not complete them.
+* Utilize other supervised learning algorithms.  I started notebooks to use XGBoost, SVM, and decision trees but did not complete them.
 * Add AUC to metrics used to evaluate models.
